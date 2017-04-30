@@ -2,25 +2,15 @@
 
 > mandara chart
 
-## Build Setup
+## Development
 
-``` bash
+```sh
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:9080
-npm run dev
-
-# build electron app for production
-npm run build
-
-# lint all JS/Vue component files in `app/src`
-npm run lint
-
-# run webpack in production
-npm run pack
+yarn run dev
 ```
-More information can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/en/npm_scripts.html).
 
 ---
 
